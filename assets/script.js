@@ -1,5 +1,5 @@
 var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
-console.log(topics);
+
 for (var x = 0; x < topics.length; x++) { 
   console.log(topics[x]);
 
